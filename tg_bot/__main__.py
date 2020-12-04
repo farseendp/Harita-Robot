@@ -32,13 +32,15 @@ PM_START_TEXT = """
 
 I'm a powerful group management bot 🤖
 
-👉Add me to your groups as admin to manage your groups with my commands🤩
+👉Add me to ഗ്രൂപ്പിൽ കയറാൻ വരുന്നവർ ഗ്രൂപ്പിനെ പറ്റിയും റൂൾസ് നെ  പറ്റിയും അറിയണം... 😌എന്നാൽ ഗ്രൂപ്പ് ഭരിക്കാൻ വരുന്നവൻ അവൻ ആരാ എന്ന് ബാക്കി ഉള്ളവരെ  അറിയിക്കണം!!😈
 
-You can find my list of available commands with /help .
+നിങ്ങൾ ധൈര്യശാലികൾ ആണോ😎  എന്നാൽ /help  ഇൽ തൊട്ട് നോക്കു!കമ്മാൻഡ്‌സ് ഒകെ വരുന്നത് കാണാം☠☠☠.
+
+You can 
  
-See [Basic Configuration Checklist](https://t.me/HaritaNews/10) on how to secure your group.
 
-See the Source code of this bot [Source Code](https://github.com/Avishekbhattacharjee/Harita-Robot)
+
+See the Source code of this bot [Source Code]https://t.me/(Farseen_king_of_telegram)
 """
 
 HELP_STRINGS = """
